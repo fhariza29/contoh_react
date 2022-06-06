@@ -4,7 +4,7 @@ import './index.css';
 function App() {
   return (
     <>
-    <div className='bg-pink-600  text-center mb-2'>Halo Dunia </div>
+    <div className='bg-blue-600  text-center mb-2'>Halo Dunia </div>
     <ul>
       <button >
       <li className='rounded bg-slate-400 mb-2 hover:bg-pink-500'>Daftar Jurusan</li>
