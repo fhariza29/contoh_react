@@ -10,6 +10,8 @@ function App() {
       <li className='rounded bg-slate-400 mb-2 hover:bg-gray-700'>Daftar Jurusan</li>
       <li className='rounded bg-slate-400 mb-2'>Daftar Kelas</li>
       <li className='rounded bg-slate-400 mb-2'>Daftar Nama Siswa</li>
+      <li className='rounded bg-slate-400 mb-2'>Daftar Kelas 10</li>
+      <li className='rounded bg-slate-400 mb-2'>Daftar Nama Siswa</li>
       
  
       </button>
