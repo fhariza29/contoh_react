@@ -11,7 +11,10 @@ function App() {
       <li className='rounded bg-slate-400 mb-2'>Daftar Kelas</li>
       <li className='rounded bg-slate-400 mb-2'>Daftar Nama Siswa</li>
       <li className='rounded bg-slate-400 mb-2 '>Daftar Guru</li>
-      <li className='rounded bg-slate-400 '>Daftar Guru BK</li>
+      <li className='rounded bg-slate-400 mb-2'>Daftar Kelas</li>
+      <li className='rounded bg-slate-400 mb-2'>Daftar Nama Siswa</li>
+      <li className='rounded bg-slate-400 mb-2 '>Daftar Guru</li>
+ 
       </button>
       
     </ul>
